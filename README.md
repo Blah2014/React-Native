@@ -9,6 +9,7 @@
 * [NativeBase: Native Environment to build Native Apps](https://nativebase.io/)
 * [React Native Seed](https://reactnativeseed.com/)
 * [Plugins](https://js.coach/react-native/)
+* [React Native: Apple Watch](https://github.com/alexisleon/react-native-watch)
 
 ### react-native-responsive
 ```
@@ -48,3 +49,4 @@ npm i react-native-image-zoom-viewer --save
 ```
 npm install --save react-native-snap-carousel
 ```
+
