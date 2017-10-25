@@ -4,8 +4,10 @@
   <img src="https://raw.githubusercontent.com/Blah2014/phonegap-inmobi-plugin/gh-pages/images/BuymeaCoffee.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
 </a>
 
+
 * [React-Native](https://facebook.github.io/react-native/)
 * [NativeBase: Native Environment to build Native Apps](https://nativebase.io/)
+* [React Native Seed](https://reactnativeseed.com/)
 * [Plugins](https://js.coach/react-native/)
 
 ### react-native-responsive
