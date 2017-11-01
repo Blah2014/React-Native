@@ -11,6 +11,7 @@
 * [Plugins](https://js.coach/react-native/)
 * [React Native: Apple Watch](https://github.com/alexisleon/react-native-watch)
 * [How to Add a Splash Screen to a React Native App (iOS and Android)](https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae)
+* [styled-components](https://www.styled-components.com/)
 
 ### react-native-responsive
 ```
