@@ -51,3 +51,7 @@ npm i react-native-image-zoom-viewer --save
 npm install --save react-native-snap-carousel
 ```
 
+### react-native-iphone-x-helper
+```
+npm i react-native-iphone-x-helper --save
+```
