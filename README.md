@@ -15,6 +15,7 @@
 * [Victory Native: charting and data visualization](https://formidable.com/open-source/victory/docs/native)
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)
 * [react-c3js](https://github.com/bcbcarl/react-c3js)
+* [react-native-circular-action-menu](https://github.com/geremih/react-native-circular-action-menu)
 
 ### react-native-responsive
 ```
