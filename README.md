@@ -16,6 +16,7 @@
 * [react-native-svg](https://github.com/react-native-community/react-native-svg)
 * [react-c3js](https://github.com/bcbcarl/react-c3js)
 * [react-native-circular-action-menu](https://github.com/geremih/react-native-circular-action-menu)
+* [react-native-keyboard-manager](https://github.com/douglasjunior/react-native-keyboard-manager)
 
 ### react-native-responsive
 ```
