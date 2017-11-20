@@ -17,6 +17,7 @@
 * [react-c3js](https://github.com/bcbcarl/react-c3js)
 * [react-native-circular-action-menu](https://github.com/geremih/react-native-circular-action-menu)
 * [react-native-keyboard-manager](https://github.com/douglasjunior/react-native-keyboard-manager)
+* [react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer)
 
 ### react-native-responsive
 ```
