@@ -62,3 +62,8 @@ npm install --save react-native-snap-carousel
 ```
 npm i react-native-iphone-x-helper --save
 ```
+
+### react-native-sortable-list
+```
+npm i react-native-sortable-list --save
+```
